@@ -1,0 +1,16 @@
+.buttons {
+  display: flex;
+  gap: 20px;
+}
+
+.button {
+  width: 200px;
+  height: 50px;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+.statistics {
+  display: flex;
+  flex-direction: column;
+}
